@@ -1,7 +1,6 @@
 # sentiment_classifier.py
 
 import argparse
-import sys
 import time
 from models import *
 from sentiment_data import *
